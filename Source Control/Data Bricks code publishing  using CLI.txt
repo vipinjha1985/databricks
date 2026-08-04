@@ -1,0 +1,30 @@
+** Create new branch of repo which need to update
+
+Note :- Create a branch of repository which need to be updated
+
+Step 1 Go to Repos main folder: - 
+cd C:\Users\vipjha\source\repos
+
+Step 2 Clone the Entire required Repo , here I am cloning  "Support-Scripts"
+git clone  https://anglianwater.visualstudio.com/Data%20Services/_git/Support-Scripts
+
+Step 3 
+cd Support-Scripts
+
+Step 4
+git pull
+
+Step 5  Checkout Newly created Branch as per development
+git checkout vipin27062019
+
+Step 6  Export changes path code
+databricks workspace export_dir -o /Users/vjha@anglianwater.co.uk/AWBI/processing/projects/telematics/ ./telematics/
+
+Step 7
+git add .
+
+Step 8
+git commit -m "latest changes for dimSecurity"
+
+Step 9
+git push

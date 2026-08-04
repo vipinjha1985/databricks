@@ -1,0 +1,17 @@
+ENTITY|CUSTOM1|Actual|Budget|Lfcst|valid date from|valid date to|COUNTRY|BANNER|Trading Division|Segment|Format Group|Format|Entity Type|Ownership Shares
+HK_B|Hardcastle Restaurants |Y|Y|Y|01.01.2017|31.12.9999|Indonesia|MacDonald's|Southeast Asia|Food|Supermarket|Mass Supermarket|S|0.35
+HK_B|Dunkin Donuts|Y|Y|Y|01.01.2016|31.12.9999|USA|Dunkin Donuts|North America|Food|Supermarket|Upscale Supermarket|S|0.8
+MC_B|Forever 21|Y|Y|Y|01.01.2016|31.12.9999|Macau|Forever 21|North Asia|Clothing|Supermarket|Mass Supermarket|S|1
+TW_B|Future Retail|Y|Y|Y|2014.06.01|31.12.9999|Taiwan|Big Bazar|North Asia|FMCG|Supermarket|Mass Supermarket|S|1
+CA_B|Avenue SuperMarkets|1|N|Y|01.01.2016|31.12.9999|Taiwan|DMART|North Asia|FMCG|Supermarket|Upscale Supermarket|S|0.25
+SG_B|Goderej Retail|Y|Y|Y|01.01.2019|31.12.9999|Singapore|Nature's Basket|Southeast Asia|FMCG|Supermarket|Upscale Supermarket|S|1
+SG_B|H&M|Y|Y|Y|01.01.2016|31.12.9999|Singapore|H&M|Southeast Asia|Clothing|Supermarket|Mass Supermarket|S|0.75
+SG_B|ZARA|Y|Y|Y|01.01.2016|31.12.9999|Singapore|ZARA|Southeast Asia|Clothing|Hypermarket|Hypermarket|S|1
+P_B|LV|Y|Y|N|1/1/2016|31.12.9999|Indonesia|LV|Southeast Asia|Clothing|Supermarket|Upscale Supermarket|S|asd
+RA_B|Amul Corp.|Y|Y|Y|01.01.2016|31.12.9999|Malaysia|Amul|Southeast Asia|Food|Supermarket|Mass Supermarket|S|0.75
+AGB_PR|TATA Bevereges|Y|Y|Y|01.01.2016|31.12.9999|Philippines|StarBucks|Southeast Asia|251|Hypermarket||S|1
+AB_PR|Chayoos|Y|Y|Y|01.01.2014|31.12.9999|Malaysia|Chayoos|Southeast Asia|Food|Supermarket|Upscale Supermarket|S|1
+T_B|Taco Bell|N|Y|Y|01.01.2016|31-12-9999|Malaysia|Taco Bell|Southeast Asia|Food|Supermarket|Mass Supermarket|S|1
+DF_B|Chilli's|Y|Y|Y|01.01.2016|31.12.9999|UK|Chilli's|EMEA|Food|Hypermarket|Hypermarket|S|0.2
+MY1_ADJ|Barista|Y|Y|N|01.01.2013||Indonesia|Barista|Southeast Asia|Food|Food Admin/Others|Food Admin/Others|A|1
+WellnessML|Wellness Forever|Y|Y|Y|01.01.2011|31.12.9999|Malaysia|Wellness Forever|Southeast Asia|Pharma|Supermarket|Mass Supermarket|A|1

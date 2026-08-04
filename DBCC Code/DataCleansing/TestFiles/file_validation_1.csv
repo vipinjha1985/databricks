@@ -1,0 +1,3 @@
+FileName,Table_Name,Source_Path,File_Type,Delimiter
+Test_File_01.csv,test_01,metadata/Test_File_01.csv,csv,
+testing_02.txt,test_02,metadata/testing_02.txt,txt,|

@@ -1,0 +1,8 @@
+Rule_ID,Rule_Description,Transformation_Type
+U1,convert into UpperCase,Update
+U2,Replace Null with[0],Update
+F1," in {2016, 2017, 2018}",Filter
+F2, in {S},Filter
+F3, in {ACTUAL},Filter
+F4," in {HK_B,SG_B}",Filter
+F5,length is == 4,Filter

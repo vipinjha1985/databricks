@@ -1,0 +1,18 @@
+#Read source data
+val crimeDF = spark.read
+  .option("delimiter", "\t")
+  .option("header", true)
+  .option("timestampFormat", "mm/dd/yyyy hh:mm:ss a")
+  .option("inferSchema", true)
+  .csv("/mnt/training/Chicago-Crimes-2018.csv")
+
+display(crimeDF)
+
+#Convert into camel
+
+val cols = crimeDF.columns
+val camelCols = new scala.collection.mutable.ListBuffer[String]()
+cols.foreach(camelCols += _.toLowerCase.split(" ").reduceLeft(_+_.capitalize))
+
+val crimeRenamedColsDF = crimeDF.toDF(camelCols:_*)
+display(crimeRenamedColsDF)
